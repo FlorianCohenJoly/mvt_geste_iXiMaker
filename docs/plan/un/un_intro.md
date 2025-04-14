@@ -2,18 +2,14 @@
 sidebar_position: 1
 ---
 
-# 1.1 Introduction
+# 1.1 L'évolution des interactions homme-machine vers les interfaces gestuelles.
 
-Avant l'immersion totale offerte par la Réalité Virtuelle, nos interactions avec le monde numérique étaient ancrées dans le tangible.
+L'histoire de l'interaction entre l'homme et la machine est une quête constante pour des interfaces plus intuitives, efficaces et immersives. Des premiers calculateurs mécaniques aux ordinateurs personnels, en passant par les consoles de jeux, la manière dont nous communiquons avec les systèmes numériques a radicalement évolué. Comprendre cette trajectoire est essentiel pour appréhender la signification et le potentiel des interactions manuelles en réalité virtuelle.
 
-Des interfaces physiques, telles que claviers, souris et écrans tactiles, ont longtemps été les intermédiaires privilégiés entre nos intentions et les actions à l'écran. Cependant, l'histoire des interactions homme-machine témoigne d'une quête constante pour des formes d'engagement plus intuitives et directes, où le geste manuel a progressivement trouvé sa place.
+Initialement, l'interaction avec les ordinateurs était principalement textuelle, nécessitant la maîtrise de langages de commande et une abstraction considérable des actions souhaitées. L'avènement de l'interface graphique utilisateur (GUI) dans les années 1980, popularisée par des systèmes comme Macintosh et Windows, a marqué une étape cruciale. L'introduction de la souris comme périphérique de pointage et de clic a permis une interaction plus directe et visuelle avec les éléments à l'écran, en s'appuyant sur des métaphores spatiales et des actions de manipulation indirectes.
 
-Des tentatives pionnières dans les jeux vidéo non-VR, comme le traçage de sorts à la souris dans [Arx Fatalis](https://fr.wikipedia.org/wiki/Arx_Fatalis) ou les interactions gestuelles pour guider une créature dans [Black & White](https://fr.wikipedia.org/wiki/Black_and_White_%28jeu_vidéo%29), ont préfiguré un désir d'aller au-delà des commandes traditionnelles. 
+Dans le domaine du jeu vidéo, l'évolution a suivi une trajectoire similaire. Des claviers et des joysticks rudimentaires des premières consoles aux manettes sophistiquées avec leurs multiples boutons et sticks analogiques, les interfaces ont progressivement permis des contrôles plus complexes et nuancés des avatars et des environnements virtuels. Cependant, ces interactions restaient fondamentalement indirectes, traduisant des pressions de boutons ou des mouvements de sticks en actions à l'écran.
 
-L'arrivée de supports technologiques tels que la Wii et sa Wiimote, Kinect pour la Xbox 360, et les Joy-Cons de la Nintendo Switch a marqué une avancée significative, démocratisant les interactions basées sur le mouvement et le langage corporel.
+L'émergence de périphériques de détection de mouvements, tels que la Nintendo Wii Remote et le Microsoft Kinect, a représenté une tentative de briser cette barrière de l'indirect. En permettant aux mouvements physiques du joueur d'être capturés et transposés dans le jeu, ces technologies ont introduit une forme plus directe d'interaction, bien que souvent limitée en termes de précision et de fidélité. Ces expériences ont néanmoins préparé le terrain pour une exploration plus poussée des interactions gestuelles dans les environnements numériques.
 
-Ces systèmes ont permis d'explorer de nouvelles mécaniques de jeu et de rendre les interfaces plus accessibles, mais ils n'étaient pas sans limites en termes de précision, de retour physique et de dépendance à un matériel spécifique.
-
-Comprendre les apports et les limitations de ces technologies antérieures à la VR est essentiel pour apprécier la rupture qu'introduit cette dernière. La VR ambitionne de dépasser ces contraintes en offrant une immersion où nos mains deviennent naturellement les outils d'interaction au sein d'environnements simulés.
-
-En retraçant l'évolution de ces "gestes" dans les jeux vidéo non-VR et en examinant les supports technologiques qui les ont rendus possibles, nous pourrons mieux comprendre l'importance et le potentiel des interactions manuelles directes dans le contexte immersif de la Réalité Virtuelle et ainsi répondre à la question principale de se mémoire, **Comment concevoir des interactions réalistes et immersives en réalité virtuelle pour la manipulation d'objets techniques, tout en prenant en compte la gestuelle et la résistance physique ?**
+C'est dans ce contexte d'évolution constante vers des interactions plus naturelles et immersives que la réalité virtuelle émerge comme une rupture potentielle. En plaçant l'utilisateur au cœur d'un environnement simulé et en offrant la possibilité de suivre les mouvements de ses mains avec une précision croissante, la VR promet de transformer radicalement notre manière d'interagir avec le monde numérique, en particulier pour la manipulation d'objets techniques.
