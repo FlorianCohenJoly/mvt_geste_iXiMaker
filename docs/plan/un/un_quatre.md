@@ -10,7 +10,7 @@ Les technologies gestuelles antérieures à la réalité virtuelle, bien qu'ayan
 
 **Intuition et accessibilité accrue** : L'un des atouts majeurs de ces technologies réside dans leur capacité à exploiter l'intuition humaine. Mimer des actions familières réduit la barrière d'apprentissage pour de nombreux utilisateurs. La Nintendo Wii, avec sa Wiimote, a largement démontré cette accessibilité, attirant un public diversifié grâce à des jeux comme [Wii Sports](https://fr.wikipedia.org/wiki/Wii_Sports) qui simulaient des mouvements sportifs naturels.
 
-L'article de vulgarisation de Steven Johnson dans The New York Times Magazine en 2006, "Everyone's a Gamer Now" (introuvable), illustrait comment la Wii a élargi le public du jeu vidéo grâce à son interface intuitive basée sur le mouvement.
+L'article de Steven Johnson dans The New York Times Magazine en 2006, "Everyone's a Gamer Now", illustrait comment la Wii a élargi le public du jeu vidéo grâce à son interface intuitive basée sur le mouvement.
 
 **Engagement physique et immersion** : L'intégration du mouvement corporel dans l'interaction a significativement augmenté l'engagement et le sentiment d'immersion. L'expérience de jeux comme [Kinect Sports (2010)](https://fr.wikipedia.org/wiki/Kinect_Sports) offrait une immersion physique plus poussée.
 
@@ -44,6 +44,6 @@ Référence : Microsoft. (2010). Kinect for Xbox 360 User Manual. (Disponible su
 
 **Abstraction des interactions complexes** : Simuler des manipulations fines et complexes restait un défi.
 
-Exemple : Des discussions sur des forums de développement de jeux ou des articles techniques expliquaient la difficulté de traduire des gestes complexes en actions précises dans des environnements non-VR, en particulier pour la manipulation d'objets avec de multiples degrés de liberté.
+Des discussions sur des forums de développement de jeux ou des articles techniques expliquaient la difficulté de traduire des gestes complexes en actions précises dans des environnements non-VR, en particulier pour la manipulation d'objets avec de multiples degrés de liberté.
 
 En analysant ces apports et ces limites, on comprend mieux le contexte dans lequel la réalité virtuelle a émergé comme une plateforme prometteuse pour surmonter certaines de ces limitations et offrir des interactions manuelles encore plus réalistes et immersives. La VR vise à améliorer la précision du suivi, à intégrer un retour haptique plus sophistiqué et à offrir une plus grande liberté de mouvement pour la manipulation d'objets complexes.
