@@ -5,10 +5,12 @@ sidebar_position: 1
 # 1.1 L'évolution des interactions homme-machine vers les interfaces gestuelles.
 
 L'histoire de l'interaction entre l'homme et la machine est une quête constante pour des interfaces plus intuitives, efficaces et immersives. Des premiers calculateurs mécaniques aux ordinateurs personnels, en passant par les consoles de jeux, la manière dont nous communiquons avec les systèmes numériques a radicalement évolué. Comprendre cette trajectoire est essentiel pour appréhender la signification et le potentiel des interactions manuelles en réalité virtuelle.
+![Ivan Sutherland à la console du TX-2, travaillant sur SketchPad (MIT, 1963)](./ivan.png)
+![Ivan Sutherland demonstrating Sketchpad (MIT, 1963)](./scetch.png)
+
+
 
 Initialement, l'interaction avec les ordinateurs était principalement textuelle, nécessitant la maîtrise de langages de commande et une abstraction considérable des actions souhaitées. L'avènement de l'interface graphique utilisateur (GUI) dans les années 1980, popularisée par des systèmes comme Macintosh et Windows, a marqué une étape cruciale. 
-![Ivan Sutherland à la console du TX-2, travaillant sur SketchPad (MIT, 1963)](./ivan.png)
-
 "En 1964, Doug Engelbart invente la souris, qu'il brevète, car il veut pouvoir facilement désigner des objets à l'écran." ([document de Michel Beaudouin-Lafon en 2001](https://www.lri.fr/~mbl/ASTI2001/40ansIHM-papier.pdf).)
 L'introduction de la souris comme périphérique de pointage et de clic a permis une interaction plus directe et visuelle avec les éléments à l'écran, en s'appuyant sur des métaphores spatiales et des actions de manipulation indirectes.
 
