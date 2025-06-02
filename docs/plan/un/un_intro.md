@@ -17,8 +17,14 @@ L'introduction de la souris comme périphérique de pointage et de clic a permis
 
 
 Dans le domaine du jeu vidéo, l'évolution a suivi une trajectoire similaire. Des claviers et des joysticks rudimentaires des premières consoles aux manettes sophistiquées avec leurs multiples boutons et sticks analogiques, les interfaces ont progressivement permis des contrôles plus complexes et nuancés des avatars et des environnements virtuels. Cependant, ces interactions restaient fondamentalement indirectes, traduisant des pressions de boutons ou des mouvements de sticks en actions à l'écran.
+L'émergence de périphériques de détection de mouvements, tels que la Nintendo Wii Remote et le Microsoft Kinect, a représenté une tentative de briser cette barrière de l'indirect. En permettant aux mouvements physiques du joueur d'être capturés et transposés dans le jeu, ces technologies ont introduit une forme plus directe d'interaction, bien que souvent limitée en termes de précision et de fidélité. l'article de [LesEchos publié par Maxime Amiot le 5 novembre 2010](https://www.lesechos.fr/2010/11/kinect-invente-le-jeu-sans-manette-434642) le souligne "_Une sensibilité pas toujours optimale_"
 
-L'émergence de périphériques de détection de mouvements, tels que la Nintendo Wii Remote et le Microsoft Kinect, a représenté une tentative de briser cette barrière de l'indirect. En permettant aux mouvements physiques du joueur d'être capturés et transposés dans le jeu, ces technologies ont introduit une forme plus directe d'interaction, bien que souvent limitée en termes de précision et de fidélité. Ces expériences ont néanmoins préparé le terrain pour une exploration plus poussée des interactions gestuelles dans les environnements numériques.
+![Manette Attari 2003](./manneteattari.png) Manette Attari, 2003 
+
+![Manette PS5, 2024](./manetteps5.png) Manette PS5, 2024
+
+
+Ces expériences ont néanmoins préparé le terrain pour une exploration plus poussée des interactions gestuelles dans les environnements numériques.
 
 C'est dans ce contexte d'évolution constante vers des interactions plus naturelles et immersives que la réalité virtuelle émerge comme une rupture potentielle. En plaçant l'utilisateur au cœur d'un environnement simulé et en offrant la possibilité de suivre les mouvements de ses mains avec une précision croissante, la VR promet de transformer radicalement notre manière d'interagir avec le monde numérique, en particulier pour la manipulation d'objets techniques.
 
