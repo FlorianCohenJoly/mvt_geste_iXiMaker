@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# 1.4 L'influence des appareils mobiles : Les bases d'une gestuelle intuitive
+# 1.3 L'influence des appareils mobiles : Les bases d'une gestuelle intuitive
 
 L'avènement des smartphones et des tablettes a révolutionné notre interaction avec la technologie, en introduisant des interfaces tactiles et des capteurs de mouvement qui ont profondément ancré les gestes dans notre usage quotidien du numérique. Ces appareils ont démocratisé une forme d'interaction plus directe et intuitive, préparant le terrain pour l'adoption des interactions gestuelles en réalité virtuelle.
 
