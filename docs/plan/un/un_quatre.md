@@ -42,7 +42,17 @@ Des articles sur la santé et le jeu vidéo mettaient parfois en garde contre le
 
 Référence : Microsoft. (2010). Kinect for Xbox 360 User Manual. (Disponible sur le site de support Xbox).
 
-**Abstraction des interactions complexes** : Simuler des manipulations fines et complexes restait un défi.
+**Abstraction des interactions complexes** : Malgré les progrès des technologies immersives et des dispositifs de tracking, simuler fidèlement les manipulations fines reste un défi de taille en réalité virtuelle. Les interactions du quotidien — comme écrire, visser ou plier un objet — mobilisent des séquences motrices complexes, acquises depuis l’enfance, et intégrées dans notre fonctionnement sans effort conscient. Cette capacité humaine à manipuler avec précision repose sur un système neuromoteur sophistiqué : « From the moment we are born we learn to manipulate things around us using our hands and by adulthood we get to the point where we do not need any conscious attention to perform extremely complex manipulation » (Poupyrev, 2000, p. 2)
+.
+
+En réalité virtuelle, cette richesse gestuelle se heurte à plusieurs limites : précision des capteurs, latence des retours haptiques, difficulté à modéliser une interaction cohérente pour chaque scénario. Selon Poupyrev, la conception de techniques de manipulation efficaces reste « a difficult problem », notamment à cause de la variété des tâches et des paramètres qui influencent les performances utilisateurs — distance, taille des objets, densité de la scène, type de mouvement requis (Poupyrev, 2000, p. 4)
+.
+
+Il distingue d’ailleurs deux approches pour modéliser les tâches de manipulation : soit on conçoit une solution spécifique à chaque interaction complexe (ce qui est coûteux et peu généralisable), soit on tente de décomposer les gestes en tâches élémentaires comme sélectionner, positionner ou faire pivoter — mais cette abstraction perd souvent en fidélité (Poupyrev, 2000, p. 5)
+.
+
+Ainsi, la réalité virtuelle repose encore largement sur des techniques qui simplifient ou approximativement reproduisent nos gestes, souvent en s’éloignant de la gestuelle naturelle : « Most manipulation techniques depart from real world manipulation to a greater or lesser degree by allowing ‘magical’ interactions with virtual environments » (Poupyrev, 2000, p. 29)
+. Cette tension entre fidélité et utilisabilité est au cœur des enjeux contemporains de l’interaction manuelle en VR.
 
 Des discussions sur des forums de développement de jeux ou des articles techniques expliquaient la difficulté de traduire des gestes complexes en actions précises dans des environnements non-VR, en particulier pour la manipulation d'objets avec de multiples degrés de liberté.
 
