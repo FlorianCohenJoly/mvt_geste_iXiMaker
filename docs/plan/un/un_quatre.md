@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# 1.5 Apports et limite de ces technologies
+# 1.4 Apports et limite de ces technologies
 
 Les technologies gestuelles antérieures à la réalité virtuelle, bien qu'ayant pavé la voie à des interactions plus immersives et naturelles, présentaient un ensemble d'apports significatifs et de limitations implicite à leur conception et à leur contexte d'utilisation. Comprendre ces aspects est crucial pour apprécier les avancées et les défis spécifiques de la manipulation d'objets en VR.
 
