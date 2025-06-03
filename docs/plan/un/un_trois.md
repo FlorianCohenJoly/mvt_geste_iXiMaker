@@ -28,7 +28,6 @@ Les gyroscopes et accéléromètres des appareils mobiles ont permis d’élargi
 
 **Rotation** : Pour changer de perspective ou d’affichage, entre mode portrait et paysage.
 
-Ces gestes, bien que simples, font appel à une dimension corporelle, anticipant l’implication physique attendue en VR. Palm note d’ailleurs que _“whole team contributes to the interaction design”_, en intégrant sons, visuels et vibrations pour amplifier la sensation d’impact et de réactivité. Cela a préparé les utilisateurs à s’attendre à un retour immédiat et multisensoriel dans leurs interactions.
 
 Les fondations d’une gestuelle naturelle : un apprentissage universel
 L’omniprésence des interfaces tactiles dans nos vies a conduit à un apprentissage implicite mais profond des gestes numériques. Aujourd’hui, un simple glissement de doigt ou un pincement est compris de manière quasi universelle. Ces gestes sont devenus le socle d’un langage d’interaction que la réalité virtuelle peut prolonger.
