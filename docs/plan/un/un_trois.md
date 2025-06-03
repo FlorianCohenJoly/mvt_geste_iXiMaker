@@ -4,9 +4,9 @@ sidebar_position: 4
 
 # 1.3 L'influence des appareils mobiles : Les bases d'une gestuelle intuitive
 
-L’avènement des smartphones et des tablettes a révolutionné notre interaction avec la technologie, en introduisant des interfaces tactiles et des capteurs de mouvement qui ont profondément ancré les gestes dans notre usage quotidien du numérique. Ces appareils ont démocratisé une forme d’interaction plus directe et intuitive, préparant le terrain pour l’adoption des interactions gestuelles en réalité virtuelle (VR).
+L’avènement des smartphones et des tablettes a révolutionné notre interaction avec la technologie, en introduisant des interfaces tactiles et des capteurs de mouvement qui ont profondément ancré les gestes dans notre usage quotidien du numérique. Ces appareils ont démocratisé une forme d’interaction plus directe et intuitive, préparant le terrain pour l’adoption des interactions gestuelles en réalité virtuelle.
 
-**Interactions tactiles directes** : le langage du toucher
+## Interactions tactiles directes : le langage du toucher
 L’écran tactile a introduit un nouveau vocabulaire d’interactions basées sur le contact direct avec l’interface :
 
 **Tapoter (Tap)** : Une brève pression du doigt sur l’écran, utilisée pour sélectionner des éléments, activer des boutons ou exécuter des actions simples. C’est l’équivalent du "clic" de la souris, mais réalisé directement sur l’objet virtuel.
@@ -19,7 +19,7 @@ L’écran tactile a introduit un nouveau vocabulaire d’interactions basées s
 
 Ce vocabulaire gestuel est aujourd’hui universel, notamment parce qu’il combine efficacité fonctionnelle et expérience plaisante d’usage, un principe hérité du jeu vidéo. Comme l’indique [Joakim Maeda Palm _How does the game industry create user interface design?_(2022)](https://www.diva-portal.org/smash/get/diva2%3A1710174/FULLTEXT01.pdf), les développeurs de jeux mobiles mettent davantage l’accent sur la spontanéité et la fluidité que sur une planification rigide du design, car _“games have the requirement to be ‘fun’, and that is a vague requirement that separates game development from traditional development”_. Cette exigence de plaisir se retrouve dans le soin apporté aux animations, au rythme des interactions et aux rétroactions visuelles et sonores.
 
-**Interactions basées sur le mouvement de l’appareil** : le corps comme contrôleur
+## Interactions basées sur le mouvement de l’appareil : le corps comme contrôleur.
 Les gyroscopes et accéléromètres des appareils mobiles ont permis d’élargir l’éventail des interactions :
 
 **Inclinaison (Tilt)** : Pour contrôler un véhicule ou naviguer dans un menu par bascule physique du téléphone.
