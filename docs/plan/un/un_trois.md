@@ -19,7 +19,7 @@ L’écran tactile a introduit un nouveau vocabulaire d’interactions basées s
 
 Ce vocabulaire gestuel est aujourd’hui universel, notamment parce qu’il combine efficacité fonctionnelle et expérience plaisante d’usage, un principe hérité du jeu vidéo. Comme l’indique [Joakim Maeda Palm _How does the game industry create user interface design?_(2022)](https://www.diva-portal.org/smash/get/diva2%3A1710174/FULLTEXT01.pdf), les développeurs de jeux mobiles mettent davantage l’accent sur la spontanéité et la fluidité que sur une planification rigide du design, car _“games have the requirement to be ‘fun’, and that is a vague requirement that separates game development from traditional development”_. Cette exigence de plaisir se retrouve dans le soin apporté aux animations, au rythme des interactions et aux rétroactions visuelles et sonores.
 
-## Interactions basées sur le mouvement de l’appareil : le corps comme contrôleur.
+## Interactions basées sur le mouvement de l’appareil :
 Les gyroscopes et accéléromètres des appareils mobiles ont permis d’élargir l’éventail des interactions :
 
 **Inclinaison (Tilt)** : Pour contrôler un véhicule ou naviguer dans un menu par bascule physique du téléphone.
