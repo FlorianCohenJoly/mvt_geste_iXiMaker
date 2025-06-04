@@ -6,5 +6,6 @@ https://www.lri.fr/~mbl/ASTI2001/40ansIHM-papier.pdf
 
 
 
-LesEchos publié par Maxime Amiot le 5 novembre 2010
-https://www.lesechos.fr/2010/11/kinect-invente-le-jeu-sans-manette-434642
+
+
+[Ben Shneiderman, Designing the User Interface: Strategies for Effective Human-Computer Interaction, 5e édition, Pearson, 2010.](http://seu1.org/files/level5/IT201/Book%20-%20Ben%20Shneiderman-Designing%20the%20User%20Interface-4th%20Edition.pdf)
