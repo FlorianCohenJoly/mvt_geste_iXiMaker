@@ -38,7 +38,7 @@ C'est dans ce contexte d'évolution constante vers des interactions plus naturel
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-1. [Ben Shneiderman - Designing the User Interface: Strategies for Effective Human-Computer Interaction, 5e édition, Pearson, 2010.](http://seu1.org/files/level5/IT201/Book%20-%20Ben%20Shneiderman-Designing%20the%20User%20Interface-4th%20Edition.pdf) _“The history of interface design shows a steady progression toward more direct, natural, and immersive forms of interaction.”_
+1. [Ben Shneiderman - Designing the User Interface: Strategies for Effective Human-Computer Interaction, 5e édition, Pearson, 2010.](http://seu1.org/files/level5/IT201/Book%20-%20Ben%20Shneiderman-Designing%20the%20User%20Interface-4th%20Edition.pdf) 
 
 2. [Michel Beaudouin-Lafon - “40 ans d’interaction homme-machine : de la machine au nuage”, 2001](https://www.lri.fr/~mbl/ASTI2001/40ansIHM-papier.pdf)
 _"En 1964, Doug Engelbart invente la souris, qu'il brevète , car il veut pouvoir facilement désigner des objets à l'écran."_
