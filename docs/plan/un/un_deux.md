@@ -7,7 +7,9 @@ sidebar_position: 2
 
 Avant que la réalité virtuelle ne popularise les casques immersifs et les systèmes de suivi de mouvements sophistiqués, plusieurs plateformes et périphériques ont exploré différentes manières de traduire les gestes humains en actions numériques. Ces tentatives, bien que souvent limitées par la technologie de l'époque, ont joué un rôle crucial dans la familiarisation du public avec l'idée d'une interaction plus directe et physique avec les environnements numériques, et ont posé les bases pour les avancées que nous observons aujourd'hui en VR. Bodkhe (2024) présente une revue des interactions gestuelles numériques avant l'arrivée de la VR (*[1](https://sdlccorp.com/post/how-motion-controls-have-evolved-in-console-gaming/)*)
 
-**[Le Power Glove, 1989](https://fr.wikipedia.org/wiki/Power_Glove)** , sorti par Nintendo pour sa console NES en 1989, est un exemple précoce et ambitieux de tentative de capture des mouvements de la main pour l'interaction dans les jeux vidéo. Le Power Glove utilisait une combinaison de capteurs : des potentiomètres pour mesurer la flexion des doigts, et un émetteur ultrasonique sur le dos de la main qui, combiné à des récepteurs sur une barre de capteurs, tentait de déterminer la position et l'orientation de la main dans l'espace. Les joueurs pouvaient ainsi, théoriquement, contrôler des actions à l'écran en bougeant leurs mains et leurs doigts. Malgré ses limitations techniques, _"le gant avait du mal à être précis, et seule une poignée de jeux étaient compatibles avec lui"_ (*2*) le Power Glove a semé les graines de l'idée d'une interaction plus directe et gestuelle dans les environnements numériques, influençant les réflexions futures sur les interfaces homme-machine. _"it showed that even back then, game dev companies were experimentig with new ways to engage users physically, even if the results were note yet refined"_
+**[Le Power Glove, 1989](https://fr.wikipedia.org/wiki/Power_Glove)** , sorti par Nintendo pour sa console NES en 1989, est un exemple précoce et ambitieux de tentative de capture des mouvements de la main pour l'interaction dans les jeux vidéo. Le Power Glove utilisait une combinaison de capteurs : des potentiomètres pour mesurer la flexion des doigts, et un émetteur ultrasonique sur le dos de la main qui, combiné à des récepteurs sur une barre de capteurs, tentait de déterminer la position et l'orientation de la main dans l'espace. Les joueurs pouvaient ainsi, théoriquement, contrôler des actions à l'écran en bougeant leurs mains et leurs doigts. 
+
+Malgré ses limitations techniques, Bodkhe le souligne _"le gant avait du mal à être précis, et seule une poignée de jeux étaient compatibles avec lui"_ (*2*) le Power Glove a semé les graines de l'idée d'une interaction plus directe et gestuelle dans les environnements numériques, influençant les réflexions futures sur les interfaces homme-machine. _"it showed that even back then, game dev companies were experimentig with new ways to engage users physically, even if the results were note yet refined"_
 
 ![Le Power Glove, 1989](./powerglove.png)
 
@@ -37,7 +39,7 @@ Ces dispositifs précurseurs ainsi que les sociétés de développement de jeux 
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-1. [_How Motion Controls Have Evolved in Console Gaming_ de Nandini Bodkhe du 27 septembre 2024](https://sdlccorp.com/post/how-motion-controls-have-evolved-in-console-gaming/)
+1. [Nandini Bodkhe - _How Motion Controls Have Evolved in Console Gaming_,  2024](https://sdlccorp.com/post/how-motion-controls-have-evolved-in-console-gaming/)
 
 2. [_How Motion Controls Have Evolved in Console Gaming_ de Nandini Bodkhe du 27 septembre 2024](https://sdlccorp.com/post/how-motion-controls-have-evolved-in-console-gaming/) _"the glove struggled with accuracy, and only a handful of games were compatible with it"_
 
