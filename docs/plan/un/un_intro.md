@@ -37,7 +37,7 @@ L'émergence de périphériques de détection de mouvements, tels que la Nintend
 
 Ces expériences ont néanmoins préparé le terrain pour une exploration plus poussée des interactions gestuelles dans les environnements numériques.
 
-C'est dans ce contexte d'évolution constante vers des interactions plus naturelles et immersives que la réalité virtuelle émerge comme une rupture potentielle. En plaçant l'utilisateur au cœur d'un environnement simulé et en offrant la possibilité de suivre les mouvements de ses mains avec une précision croissante, la VR promet de transformer radicalement notre manière d'interagir avec le monde numérique, en particulier pour la manipulation d'objets techniques.
+C'est dans ce contexte d'évolution constante vers des interactions plus naturelles et immersives que la réalité virtuelle émerge comme une rupture potentielle. En plaçant l'utilisateur au cœur d'un environnement simulé et en offrant la possibilité de suivre les mouvements de ses mains, la VR promet de transformer notre manière d'interagir avec le monde numérique, en particulier pour la manipulation d'objets techniques.
 
 
 -------------------------------------------------------------------------------------------------------------------------------
