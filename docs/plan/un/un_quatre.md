@@ -8,25 +8,23 @@ Les technologies gestuelles antérieures à la réalité virtuelle, bien qu'ayan
 
 ### Apports significatifs :
 
-**Intuition et accessibilité accrue** : L'un des atouts majeurs de ces technologies réside dans leur capacité à exploiter l'intuition humaine. Mimer des actions familières réduit la barrière d'apprentissage pour de nombreux utilisateurs. La Nintendo Wii, avec sa Wiimote, a largement démontré cette accessibilité, attirant un public diversifié grâce à des jeux comme [Wii Sports](https://fr.wikipedia.org/wiki/Wii_Sports) qui simulaient des mouvements sportifs naturels.
+**Intuition et accessibilité accrue** : L'un des atouts majeurs de ces technologies réside dans leur capacité à exploiter l'intuition humaine. Mimer des actions familières réduit la barrière d'apprentissage pour de nombreux utilisateurs. La Nintendo Wii, avec sa Wiimote, a largement démontré cette accessibilité, attirant un public diversifié grâce à des jeux comme [Wii Sports](https://www.nintendo.com/fr-fr/Jeux/Wii/Wii-Sports-283971.html?srsltid=AfmBOopAu7W82x_pJh0H9ONT6SKKzUjXErQeWyoKz4p0Dk_8ZLxfOlNb) qui simulaient des mouvements sportifs naturels.
 
-L'article de Steven Johnson dans The New York Times Magazine en 2006, "Everyone's a Gamer Now", illustrait comment la Wii a élargi le public du jeu vidéo grâce à son interface intuitive basée sur le mouvement.
+Dans un article du forum "blague de geek" [(*1*)](https://www.blaguesdegeek.com/decouvrez-pourquoi-la-wii-etait-revolutionnaire/), l'auteur illustrait comment la Wii a élargi le public du jeu vidéo grâce à son interface intuitive basée sur le mouvement. _" Avec son interface intuitive et ses contrôles basés sur le mouvement, la Wii a ouvert les portes du jeu vidéo à un public bien plus large que jamais auparavant. Son impact sur l'industrie du divertissement interactif reste palpable encore aujourd'hui, plus de 15 ans après son lancement."_
 
 **Engagement physique et immersion** : L'intégration du mouvement corporel dans l'interaction a significativement augmenté l'engagement et le sentiment d'immersion. L'expérience de jeux comme [Kinect Sports (2010)](https://fr.wikipedia.org/wiki/Kinect_Sports) offrait une immersion physique plus poussée.
 
-Des critiques de jeux de l'époque sur des sites comme IGN ou GameSpot soulignaient souvent l'aspect immersif de l'utilisation du corps comme contrôleur dans les jeux Kinect. Par exemple, [la revue de Kinect Sports sur IGN (2010)](https://www.ign.com/articles/2010/11/04/kinect-sports-review) mentionnait l'engagement physique comme un point fort.
+Des critiques de jeux de l'époque sur des sites comme IGN ou GameSpot soulignaient souvent l'aspect immersif de l'utilisation du corps comme contrôleur dans les jeux Kinect. Par exemple, la revue sur IGN mentionnait l'engagement physique comme un point fort. _"Kinect Sports exige une activité physique assez proche de la réalité. Vous bougerez. Vous transpirerez probablement. Et je peux presque vous garantir qu'après environ 45 minutes de Kinect Sports, vous ressentirez des courbatures à des endroits que vous auriez pu oublier."_ [(*2*)](https://www.ign.com/articles/2010/11/04/kinect-sports-review) 
 
 **Nouvelles formes de gameplay et d'applications** : Ces technologies ont catalysé la création de genres de jeux et d'applications innovants. Le succès de jeux comme [Just Dance (Ubisoft, depuis 2009)](https://fr.wikipedia.org/wiki/Just_Dance_(s%C3%A9rie_de_jeux_vid%C3%A9o)) en est un parfait exemple.
 
 
 **Préparation à l'interaction spatiale** : L'interaction par le mouvement, même rudimentaire comme pointer avec la Wiimote, a introduit des concepts d'interaction spatiale.
 
-Des blogs de développeurs de jeux de l'époque discutaient souvent de la manière dont ils utilisaient la détection de mouvements pour créer des expériences plus directes et spatiales, préparant le terrain pour des interactions VR plus complexes.
-
 
 ### Limites implicites :
 
-**Précision et fidélité des mouvements** : La capture des mouvements était souvent une approximation. Le Power Glove (Nintendo, 1989) est un exemple notoire de manque de précision. Des articles techniques et des démontages de Kinect par des sites comme iFixit révélaient les limitations des capteurs et des algorithmes de suivi.
+**Précision et fidélité des mouvements** : La capture des mouvements était souvent une approximation. Le Power Glove est un exemple notoire de manque de précision. Des articles techniques et des démontages de Kinect par des sites comme iFixit révélaient les limitations des capteurs et des algorithmes de suivi.
 
 [Les démontages de Kinect sur iFixit](https://fr.ifixit.com/Vue+%C3%89clat%C3%A9e/Xbox+360+Kinect+Teardown/4066) fournissaient des détails sur le matériel et les capteurs utilisés, ce qui permettait de comprendre les limitations techniques en termes de résolution et de profondeur de champ.
 
@@ -40,20 +38,28 @@ Des articles sur la santé et le jeu vidéo mettaient parfois en garde contre le
 
 **Contraintes environnementales et techniques** : La performance était sensible à l'environnement. Les directives de Microsoft (2010) pour Kinect (manuel d'utilisation) détaillaient les conditions optimales de fonctionnement.
 
-Référence : Microsoft. (2010). Kinect for Xbox 360 User Manual. (Disponible sur le site de support Xbox).
 
-**Abstraction des interactions complexes** : Malgré les progrès des technologies immersives et des dispositifs de tracking, simuler fidèlement les manipulations fines reste un défi de taille en réalité virtuelle. Les interactions du quotidien — comme écrire, visser ou plier un objet — mobilisent des séquences motrices complexes, acquises depuis l’enfance, et intégrées dans notre fonctionnement sans effort conscient. Cette capacité humaine à manipuler avec précision repose sur un système neuromoteur sophistiqué : « From the moment we are born we learn to manipulate things around us using our hands and by adulthood we get to the point where we do not need any conscious attention to perform extremely complex manipulation » (Poupyrev, 2000, p. 2)
+
+
+**Abstraction des interactions complexes** : Malgré les progrès des technologies immersives et des dispositifs de tracking, simuler fidèlement les manipulations fines reste un défi de taille en réalité virtuelle. Les interactions du quotidien comme écrire, visser ou plier un objet mobilisent des séquences motrices complexes, acquises depuis l’enfance, et intégrées dans notre fonctionnement sans effort conscient. Cette capacité humaine à manipuler avec précision repose sur un système neuromoteur sophistiqué. Selon le [Dr Ivan Poupyrev](https://docs.google.com/document/d/1xVlxUCdO4lO1bzlWmB8z4qXu5njmKpHg23HOlRwNhvs/edit?tab=t.0),  _"Dès la naissance, nous apprenons à manipuler les choses autour de nous en utilisant nos mains et à l’âge adulte, nous arrivons au point où nous n’avons pas besoin d’une attention consciente pour effectuer des manipulations extrêmement complexes"_ [(*3*)](https://people.cs.vt.edu/~bowman/3dui.org/course_notes/siggraph2000/manipulation.pdf)
+
+
+Poupyrev distingue d’ailleurs deux approches pour modéliser les tâches de manipulation : soit on conçoit une solution spécifique à chaque interaction complexe, soit on tente de décomposer les gestes en tâches élémentaires comme sélectionner, positionner ou faire pivoter mais cette abstraction perd souvent en fidélité. _"Cette approche a pour principal avantage sa généralité, mais c’est aussi son principal inconvénient. Les techniques génériques conçues pour des tâches simples et canoniques peuvent s’avérer inefficaces pour certaines tâches spécifiques et ne permettent généralement pas de maximiser la performance de l’utilisateur"_ [(*3*)](https://people.cs.vt.edu/~bowman/3dui.org/course_notes/siggraph2000/manipulation.pdf).
+Elle repose en effet sur l’hypothèse que _"tous les mouvements humains sont composés de tâches de manipulation simples, qui constituent les blocs de base de scénarios de tâches complexes"_ [(*3*)](https://people.cs.vt.edu/~bowman/3dui.org/course_notes/siggraph2000/manipulation.pdf), ce qui permet une certaine transférabilité, mais au prix d'une perte de précision dans les interactions complexes.
 .
 
-En réalité virtuelle, cette richesse gestuelle se heurte à plusieurs limites : précision des capteurs, latence des retours haptiques, difficulté à modéliser une interaction cohérente pour chaque scénario. Selon Poupyrev, la conception de techniques de manipulation efficaces reste « a difficult problem », notamment à cause de la variété des tâches et des paramètres qui influencent les performances utilisateurs — distance, taille des objets, densité de la scène, type de mouvement requis (Poupyrev, 2000, p. 4)
-.
+Ainsi, la réalité virtuelle repose encore largement sur des techniques qui simplifient ou approximativement reproduisent nos gestes, souvent en s’éloignant de la gestuelle naturelle : _"La plupart des techniques de manipulation s’écartent de la manipulation du monde réel à un degré plus ou moins grand en permettant des interactions « magiques » avec l’environnement virtuel."_ [(*3*)](https://people.cs.vt.edu/~bowman/3dui.org/course_notes/siggraph2000/manipulation.pdf).
+Cette tension entre fidélité et utilisabilité est au cœur des enjeux contemporains de l’interaction manuelle en VR.
 
-Il distingue d’ailleurs deux approches pour modéliser les tâches de manipulation : soit on conçoit une solution spécifique à chaque interaction complexe (ce qui est coûteux et peu généralisable), soit on tente de décomposer les gestes en tâches élémentaires comme sélectionner, positionner ou faire pivoter — mais cette abstraction perd souvent en fidélité (Poupyrev, 2000, p. 5)
-.
 
-Ainsi, la réalité virtuelle repose encore largement sur des techniques qui simplifient ou approximativement reproduisent nos gestes, souvent en s’éloignant de la gestuelle naturelle : « Most manipulation techniques depart from real world manipulation to a greater or lesser degree by allowing ‘magical’ interactions with virtual environments » (Poupyrev, 2000, p. 29)
-. Cette tension entre fidélité et utilisabilité est au cœur des enjeux contemporains de l’interaction manuelle en VR.
-
-Des discussions sur des forums de développement de jeux ou des articles techniques expliquaient la difficulté de traduire des gestes complexes en actions précises dans des environnements non-VR, en particulier pour la manipulation d'objets avec de multiples degrés de liberté.
 
 En analysant ces apports et ces limites, on comprend mieux le contexte dans lequel la réalité virtuelle a émergé comme une plateforme prometteuse pour surmonter certaines de ces limitations et offrir des interactions manuelles encore plus réalistes et immersives. La VR vise à améliorer la précision du suivi, à intégrer un retour haptique plus sophistiqué et à offrir une plus grande liberté de mouvement pour la manipulation d'objets complexes.
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+1. [Blague de geek - Découvrez pourquoi la Wii était révolutionnaire](https://www.blaguesdegeek.com/decouvrez-pourquoi-la-wii-etait-revolutionnaire/) 
+
+2. [la revue de Kinect Sports sur IGN (2010)](https://www.ign.com/articles/2010/11/04/kinect-sports-review)
+
+3. [Ivan Poupyrev - 3D Manipulation Techniques ](https://people.cs.vt.edu/~bowman/3dui.org/course_notes/siggraph2000/manipulation.pdf)
