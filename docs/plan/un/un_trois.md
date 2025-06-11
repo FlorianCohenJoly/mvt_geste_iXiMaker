@@ -40,4 +40,4 @@ Enfin, la logique du juicy design, omniprésente dans les jeux mobiles et consol
 
 1. [Joakim Maeda Palm - How does the game industry create user interface design - 2022 ](https://www.diva-portal.org/smash/get/diva2%3A1710174/FULLTEXT01.pdf)
 
-2. [LesJeudis - Guide des interactions tactiles sur smartphones et tablettes - (2015)](https://blog.lesjeudis.com/guide-interactions-tactiles-smartphones?utm_source=chatgpt.com)
+2. [LesJeudis - Guide des interactions tactiles sur smartphones et tablettes - 2015](https://blog.lesjeudis.com/guide-interactions-tactiles-smartphones?utm_source=chatgpt.com)

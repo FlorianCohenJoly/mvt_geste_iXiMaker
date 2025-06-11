@@ -39,4 +39,4 @@ Ces dispositifs précurseurs ainsi que les sociétés de développement de jeux 
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-1. [Nandini Bodkhe - How Motion Controls Have Evolved in Console Gaming,  2024](https://sdlccorp.com/post/how-motion-controls-have-evolved-in-console-gaming/)
+1. [Nandini Bodkhe - How Motion Controls Have Evolved in Console Gaming - 2024](https://sdlccorp.com/post/how-motion-controls-have-evolved-in-console-gaming/)
