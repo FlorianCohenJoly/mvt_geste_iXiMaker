@@ -9,7 +9,7 @@ Avant que la réalité virtuelle ne popularise les casques immersifs et les syst
 
 **[Le Power Glove](https://electronics.howstuffworks.com/nintendo-power-glove.htm)** , sorti par Nintendo pour sa console NES en 1989, est un exemple précoce et ambitieux de tentative de capture des mouvements de la main pour l'interaction dans les jeux vidéo. Le Power Glove utilisait une combinaison de capteurs : des potentiomètres pour mesurer la flexion des doigts, et un émetteur ultrasonique sur le dos de la main qui, combiné à des récepteurs sur une barre de capteurs, tentait de déterminer la position et l'orientation de la main dans l'espace. Les joueurs pouvaient ainsi, théoriquement, contrôler des actions à l'écran en bougeant leurs mains et leurs doigts. 
 
-Malgré ses limitations techniques, Bodkhe le souligne _"le gant avait du mal à être précis, et seule une poignée de jeux étaient compatibles avec lui"_ (*1*). Le Power Glove a semé les graines de l'idée d'une interaction plus directe et gestuelle dans les environnements numériques, influençant les réflexions futures sur les interfaces homme-machine. _"Il a montré que même à l’époque, les développeurs de jeux expérimentaient de nouvelles façons d’engager physiquement les utilisateurs, même si les résultats étaient notés mais affinés"_. (*1*)
+Malgré ses limitations techniques, Bodkhe le souligne _"le gant avait du mal à être précis, et seule une poignée de jeux étaient compatibles avec lui"_ (*1*). Le Power Glove a semé les graines de l'idée d'une interaction plus directe et gestuelle dans les environnements numériques, influençant les réflexions futures sur les interfaces homme-machine. _"Il a montré que même à l’époque, les développeurs de jeux expérimentaient de nouvelles façons d’engager physiquement les utilisateurs, même si le résultat n’était pas encore affiné"_. (*1*)
 
 ![Le Power Glove, 1989](./powerglove.png) Power glove, Wikipédia 
 
@@ -39,4 +39,4 @@ Ces dispositifs précurseurs ainsi que les sociétés de développement de jeux 
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-1. [Nandini Bodkhe - _How Motion Controls Have Evolved in Console Gaming_,  2024](https://sdlccorp.com/post/how-motion-controls-have-evolved-in-console-gaming/)
+1. [Nandini Bodkhe - How Motion Controls Have Evolved in Console Gaming,  2024](https://sdlccorp.com/post/how-motion-controls-have-evolved-in-console-gaming/)

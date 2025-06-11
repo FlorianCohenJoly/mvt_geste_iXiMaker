@@ -21,7 +21,7 @@ L’introduction de la souris comme périphérique de pointage et de clic a perm
 
 Dans le domaine du jeu vidéo, des premières consoles aux manettes sophistiquées avec leurs multiples boutons et sticks analogiques, les interfaces ont progressivement permis des contrôles plus complexes et nuancés des avatars et des environnements virtuels. Cependant, ces interactions restaient fondamentalement indirectes, traduisant des pressions de boutons ou des mouvements de sticks en actions à l'écran.
 
-Sur l’image ci-dessous, on observe que la première manette Atari, sortie en 1977, était équipée d’un joystick standard avec un seul bouton. Avec le temps, les manettes ont progressivement évolué afin d’offrir une meilleure expérience utilisateur. Par exemple, en 1993, la Sega Mega Drive introduit pour la première fois une manette comportant six boutons, permettant une plus grande variété d’actions et une jouabilité enrichie.
+Sur l’image ci-dessous, on observe que la première manette Atari, sortie en 1977, était équipée d’un joystick standard avec un seul bouton. Avec le temps, les manettes ont progressivement évolué afin d’offrir une meilleure expérience utilisateur. Par exemple, en 1982, un controlleur Joystick introduit pour la première fois une manette comportant six boutons, permettant une plus grande variété d’actions et une jouabilité enrichie.
 
 ![Evolution des manettes de jeu vidéo](./controlleur.jpg) _Evolution des manettes de jeu vidéo ([Hooopnod](https://hoopnod.com/evolution-manette-gamepad-jeux-video-histoire/))_
 
@@ -33,10 +33,8 @@ C'est dans ce contexte d'évolution constante vers des interactions plus naturel
 
 ---
 
-1. [Ben Shneiderman - Designing the User Interface: Strategies for Effective Human-Computer Interaction, 5e édition, Pearson, 2010.](http://seu1.org/files/level5/IT201/Book%20-%20Ben%20Shneiderman-Designing%20the%20User%20Interface-4th%20Edition.pdf)
+1. [Ben Shneiderman - Designing the User Interface: Strategies for Effective Human-Computer Interaction - 5e édition - Pearson - 2010.](http://seu1.org/files/level5/IT201/Book%20-%20Ben%20Shneiderman-Designing%20the%20User%20Interface-4th%20Edition.pdf)
 
-2. [Michel Beaudouin-Lafon - “40 ans d’interaction homme-machine : de la machine au nuage”, 2001](https://www.lri.fr/~mbl/ASTI2001/40ansIHM-papier.pdf)
-   _"En 1964, Doug Engelbart invente la souris, qu'il brevète , car il veut pouvoir facilement désigner des objets à l'écran."_
+2. [Michel Beaudouin-Lafon - “40 ans d’interaction homme-machine : de la machine au nuage” - 2001](https://www.lri.fr/~mbl/ASTI2001/40ansIHM-papier.pdf)
 
-3. [AZ-Tech - Le système NLS et la démonstration « Mother of All Demos, 2023](https://captaintech.fr/douglas-engelbart-revolution-informatique/)
-   _"Le système NLS (oN-Line System) est un autre chef-d’œuvre de Douglas Engelbart, qui a révolutionné la manière dont les utilisateurs interagissent avec les ordinateurs. NLS est un système d’exploitation et de traitement de l’information conçu pour faciliter la collaboration ainsi que la communication entre les membres d’une équipe. Le système NLS comprend plusieurs fonctionnalités révolutionnaires pour l’époque, telles que l’édition collaborative en temps réel, la navigation hypertexte, sans parler de l’intégration de la vidéo et du son."_
+3. [AZ-Tech - Le système NLS et la démonstration « Mother of All Demos - 2023](https://captaintech.fr/douglas-engelbart-revolution-informatique/)

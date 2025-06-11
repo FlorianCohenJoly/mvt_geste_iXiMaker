@@ -34,8 +34,8 @@ La réalité virtuelle offre le potentiel de surmonter ces limitations en propos
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-1. [Graham Smith, Tim Salzman, Wolfgang Stuerzlinger - 3D Scene Manipulation with 2D Devices and Constraints](https://vvise.iat.sfu.ca/user/data/papers/mive_gi2001.pdf)
+1. [Graham Smith, Tim Salzman, Wolfgang Stuerzlinger - 3D Scene Manipulation with 2D Devices and Constraints - Non datée](https://vvise.iat.sfu.ca/user/data/papers/mive_gi2001.pdf)
 
-2. [Nicole Krueger - How Immersive Learning Prepares Students for the Future](https://iste.org/blog/how-immersive-learning-prepares-students-for-the-future)
+2. [Nicole Krueger - How Immersive Learning Prepares Students for the Future - 2023](https://iste.org/blog/how-immersive-learning-prepares-students-for-the-future)
 
-3. [Priska Breves, Jan-Philipp Stein - Cognitive load in immersive media settings: the role of spatial presence and cybersickness](https://link.springer.com/article/10.1007/s10055-022-00697-5)
+3. [Priska Breves, Jan-Philipp Stein - Cognitive load in immersive media settings: the role of spatial presence and cybersickness - 2022](https://link.springer.com/article/10.1007/s10055-022-00697-5)

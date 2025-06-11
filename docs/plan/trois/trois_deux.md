@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 3.2 Manipulation d’objets et gestes techniques en réalité virtuelle
 
-_L’interaction est l’un des piliers fondamentaux de la réalité virtuelle. Il s’agit de la capacité des utilisateurs à interagir avec l’environnement créé par la technologie de réalité virtuelle. Il s’agit entre autres des gestes physiques, des mouvements de la tête et du corps, des commandes vocales, contrôleurs manuels, interfaces tactiles et sensations haptiques._ [(_1_)](https://www.bew-web-agency.fr/piliers-de-la-realite-virtuelle//)
+_"L’interaction est l’un des piliers fondamentaux de la réalité virtuelle. Il s’agit de la capacité des utilisateurs à interagir avec l’environnement créé par la technologie de réalité virtuelle. Il s’agit entre autres des gestes physiques, des mouvements de la tête et du corps, des commandes vocales, contrôleurs manuels, interfaces tactiles et sensations haptiques."_ [(_1_)](https://www.bew-web-agency.fr/piliers-de-la-realite-virtuelle//)
 
 Pour répondre à ces besoins, des outils spécifiques ont été développés et la recherche continue d’enrichir ces interactions.
 
@@ -20,6 +20,6 @@ Refaire ses gestes nous ont permis de mieux comprendre comment ils sont faits et
 
 ---
 
-1. [Bew web agency - Tout savoir sur les piliers de la réalité virtuelle - 2023](http://bew-web-agency.fr/piliers-de-la-realite-virtuelle/) - Outil de découpe d'objets 3D en VR.
+1. [Bew web agency - Tout savoir sur les piliers de la réalité virtuelle - 2023](http://bew-web-agency.fr/piliers-de-la-realite-virtuelle/) 
 
 2. [Hangxin Liu et al - A Reconfigurable Data Glove for Reconstructing Physical and Virtual Grasps - 2023](https://arxiv.org/abs/2301.05821)
