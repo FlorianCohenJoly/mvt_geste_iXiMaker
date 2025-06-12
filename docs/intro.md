@@ -24,11 +24,12 @@ Engagement: _"Une interaction intuitive et naturelle renforce l'engagement de l'
 Accessibilité: _"Une interaction bien conçue rend la VR plus accessible, permettant même aux novices de plonger facilement dans le monde virtuel."_
 
 Ce mémoire de veille technologique se propose d'explorer les avancées et les défis liés à la conception d'interactions manuelles réalistes et immersives en réalité virtuelle pour la manipulation d'objets techniques.
-Nous retracerons: 
-- l'évolution des interactions homme-machine avant l'avènement de la VR. 
-- les différentes technologies VR qui sous-tendent ces interactions. 
-- les principes de conception des gestes et des interactions spécifiques au contexte virtuel. 
-- l'accessibilité soulevés par ces technologies ainsi que leurs limites actuelles. 
+Nous retracerons:
+
+- l'évolution des interactions homme-machine avant l'avènement de la VR.
+- les différentes technologies VR qui sous-tendent ces interactions.
+- les principes de conception des gestes et des interactions spécifiques au contexte virtuel.
+- l'accessibilité soulevés par ces technologies ainsi que leurs limites actuelles.
 - les domaines d'application prometteurs et les débouchés potentiels de ces interactions manuelles réalistes en VR.
 
 Puis nous finirons par un conclusion qui retracera notre memoires afin de répondre a notre problematiques.
@@ -43,6 +44,6 @@ Puis nous finirons par un conclusion qui retracera notre memoires afin de répon
 
 4. [Rapport sur les tendances de croissance de la réalité virtuelle - 2025](https://www.globenewswire.com/news-release/2025/03/18/3044525/28124/en/Virtual-Reality-Growth-Trends-Report-2025-Global-Market-to-Grow-by-339-29-Billion-by-2033-Driven-by-Rising-Applications-in-Surgery-Immersive-Entertainment-Simulation-Developments-P.html)
 
-5. [5 Exemples Concrets d’Entreprises Utilisant la VR pour la Formation](https://rvolution.fr/2024/06/25/5-exemples-concrets-dentreprises-utilisant-la-vr-pour-la-formation/)
+5. [5 Exemples Concrets d’Entreprises Utilisant la VR pour la Formation - 2024](https://rvolution.fr/2024/06/25/5-exemples-concrets-dentreprises-utilisant-la-vr-pour-la-formation/)
 
 6. [Réalité Virtuelle et Interaction Utilisateur: Défis et Solutions - 2024](https://w3r.one/fr/blog/mobile/technologies-emergentes/realite-virtuelle/realite-virtuelle-interaction-utilisateur-defis-solutions)

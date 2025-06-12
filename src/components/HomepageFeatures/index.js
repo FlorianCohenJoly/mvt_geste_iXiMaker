@@ -32,7 +32,7 @@ const FeatureList = [
   },
   {
     title: 'Coding Factory',
-    img: require('@site/static/img/coding_factory.jpg').default,
+    img: require('@site/static/img/esiee.png').default,
 
     description: (
       <>
