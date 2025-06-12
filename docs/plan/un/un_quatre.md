@@ -58,8 +58,8 @@ En analysant ces apports et ces limites, on comprend mieux le contexte dans lequ
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-1. [Blague de geek - Découvrez pourquoi la Wii était révolutionnaire](https://www.blaguesdegeek.com/decouvrez-pourquoi-la-wii-etait-revolutionnaire/) 
+1. [Blague de geek - Découvrez pourquoi la Wii était révolutionnaire - Non datée](https://www.blaguesdegeek.com/decouvrez-pourquoi-la-wii-etait-revolutionnaire/) 
 
-2. [la revue de Kinect Sports sur IGN (2010)](https://www.ign.com/articles/2010/11/04/kinect-sports-review)
+2. [Arthur Gies - la revue de Kinect Sports sur IGN - 2010](https://www.ign.com/articles/2010/11/04/kinect-sports-review)
 
-3. [Ivan Poupyrev - 3D Manipulation Techniques ](https://people.cs.vt.edu/~bowman/3dui.org/course_notes/siggraph2000/manipulation.pdf)
+3. [Ivan Poupyrev - 3D Manipulation Techniques - Non datée ](https://people.cs.vt.edu/~bowman/3dui.org/course_notes/siggraph2000/manipulation.pdf)
