@@ -12,7 +12,11 @@ L’écran tactile a introduit un nouveau vocabulaire d’interactions basées s
 
 **Tapoter (Tap)** : Une brève pression du doigt sur l’écran, utilisée pour sélectionner des éléments, activer des boutons ou exécuter des actions simples. C’est l’équivalent du "clic" de la souris, mais réalisé directement sur l’objet virtuel.
 
+<img src="/img/tap.gif" alt="Description du gif" width="150" />
+
 **Glisser (Swipe)** : Un mouvement continu du doigt à travers l’écran, utilisé pour naviguer entre les pages ou faire défiler du contenu. Ce geste est devenu une manière naturelle de parcourir des interfaces.
+
+<img src="/img/swipe.gif" alt="Description du gif" width="150" />
 
 **Pincer pour zoomer (Pinch-to-Zoom)** : Un geste à deux doigts pour ajuster l’échelle d’un contenu.
 
