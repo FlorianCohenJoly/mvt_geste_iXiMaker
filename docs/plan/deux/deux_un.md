@@ -2,9 +2,8 @@
 sidebar_position: 1
 ---
 
-# 2.1. Genèse de la VR
+# 2.1. Genèse de la VR (Années 1956-1990)
 
-## Les prémices de la VR (Années 1956-1990)
 L'histoire de la réalité virtuelle est une fascinante trajectoire d'idées visionnaires, comme par exemple avec  l’une des toutes premières machines de réalité virtuelle, le Sensorama inventé par Morton Heilig en 1956 et brevetée en 1962. Ces premières décennies ont posé les jalons conceptuels et ont vu des tentatives pionnières de donner vie à l'immersion interactive.
 
 ![le Sensorama](./sensorama.jpg)
