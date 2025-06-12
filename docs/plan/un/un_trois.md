@@ -12,15 +12,19 @@ L’écran tactile a introduit un nouveau vocabulaire d’interactions basées s
 
 **Tapoter (Tap)** : Une brève pression du doigt sur l’écran, utilisée pour sélectionner des éléments, activer des boutons ou exécuter des actions simples. C’est l’équivalent du "clic" de la souris, mais réalisé directement sur l’objet virtuel.
 
-<img src="/img/tap.gif" alt="Description du gif" width="150" />
+<img src="/img/tap.gif" alt="Description du gif" width="150" />, [Pixabay](https://pixabay.com/fr/gifs/robinet-téléphone-intelligent-2353/)
 
 **Glisser (Swipe)** : Un mouvement continu du doigt à travers l’écran, utilisé pour naviguer entre les pages ou faire défiler du contenu. Ce geste est devenu une manière naturelle de parcourir des interfaces.
 
-<img src="/img/swipe.gif" alt="Description du gif" width="150" />
+<img src="/img/swipe.gif" alt="Description du gif" width="150" />, [Giphy](https://giphy.com/gifs/swipe-phone-addict-Jv87NxwixBJNsFNBaV)
 
 **Pincer pour zoomer (Pinch-to-Zoom)** : Un geste à deux doigts pour ajuster l’échelle d’un contenu.
 
+<img src="/img/pinch.gif" alt="Description du gif" width="150" />, [Flaticon](https://www.flaticon.com/free-animated-icon/pinch_10522222)
+
 **Appui long (Long Press)** : Maintenir le doigt appuyé pour faire apparaître un menu contextuel.
+
+<img src="/img/longpress.gif" alt="Description du gif" width="150" />, Google Image
 
 Ce vocabulaire gestuel est aujourd’hui universel, notamment parce qu’il combine efficacité fonctionnelle et expérience plaisante d’usage, un principe hérité du jeu vidéo. Comme l’indique Joakim Maeda Palm, les développeurs de jeux mobiles mettent davantage l’accent sur la spontanéité et la fluidité que sur une planification rigide du design, car _“Les jeux ont l’exigence d’être « amusants », et c’est une exigence vague qui distingue le développement de jeux du développement logiciel traditionnel.”_(1). Cette exigence de plaisir se retrouve dans le soin apporté aux animations, au rythme des interactions et aux rétroactions visuelles et sonores.
 
@@ -30,9 +34,15 @@ Les gyroscopes et accéléromètres des appareils mobiles ont permis d’élargi
 
 **Inclinaison (Tilt)** : Pour contrôler un véhicule ou naviguer dans un menu par bascule physique du téléphone.
 
+<img src="/img/tilt.gif" alt="Description du gif" width="150" />, Google Image
+
 **Secouer (Shake)** : Pour annuler une action ou déclencher une fonction contextuelle.
 
+<img src="/img/shake.gif" alt="Description du gif" width="150" />, [Giphy](https://giphy.com/gifs/bukalapak-1rSSb0K1votgQfGIX7)
+
 **Rotation** : Pour changer de perspective ou d’affichage, entre mode portrait et paysage.
+
+<img src="/img/rotate.gif" alt="Description du gif" width="150" />, Google Image
 
 ## Les fondations d’une gestuelle naturelle
 
