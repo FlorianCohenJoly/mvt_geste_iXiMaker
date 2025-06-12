@@ -23,11 +23,16 @@ Après une période relative de stagnation dans le marché grand public, la réa
 [L'Oculus Rift](https://fr.wikipedia.org/wiki/Oculus_Rift#:~:text=Oculus%20Rift%20est%20propos%C3%A9%20%C3%A0,Fnac%20et%20sur%20Amazon.fr.), lancé en 2016 après une campagne Kickstarter réussie, est souvent considéré comme le catalyseur de cette renaissance de la VR grand public. Il offrait une expérience immersive de qualité à un prix relativement abordable, avec un suivi de la tête précis et un écosystème de contenu en développement.
 « En 2012, Palmer Luckey lança une campagne Kickstarter pour l’Oculus Rift, un casque VR promettant des expériences de réalité virtuelle de haute qualité et abordables. […] L’acquisition d’Oculus VR par Facebook pour 2 milliards de dollars en 2014 marqua le début d’une nouvelle ère pour la VR, avec des investissements importants et un regain d’intérêt de la part du secteur technologique.»(3)
 
-![HTC Vive](./HTC.jpg) ![PSVR](./PSVR.jpg)
+![HTC Vive](./HTC.jpg)
+
+[l'HTC Vive](https://fr.wikipedia.org/wiki/HTC_Vive)
 
 [HTC Vive](https://fr.wikipedia.org/wiki/HTC_Vive) (en partenariat avec Valve): Lancé également en 2016, le HTC Vive se distinguait par son système de suivi spatial "Lighthouse" qui permettait un suivi des mouvements de l'utilisateur dans un espace plus large ("room-scale VR"), offrant une plus grande liberté d'interaction.Lancé en 2016 pour la console PlayStation 4 (et plus tard pour la PlayStation 5), le [PSVR](https://fr.wikipedia.org/wiki/PlayStation_VR) a rendu la VR plus accessible à un large public de joueurs déjà équipé de la console Sony.
 « L’Oculus Rift, le HTC Vive et le PlayStation VR n’étaient pas seulement des avancées technologiques, mais aussi des acteurs clés dans le développement d’un écosystème croissant de contenus VR. Le développement de jeux, d’applications et d’expériences spécifiquement conçus pour la VR se développa rapidement et parallèlement à ces acteurs matériels, l'émergence de plateformes logicielles et d'écosystèmes de contenu comme l'Oculus Store, SteamVR, PlayStation Store a été cruciale pour fournir aux utilisateurs une variété d'expériences allant des jeux aux applications éducatives et sociales.
 
+![PSVR](./PSVR.jpg)
+
+[le PSVR](https://fr.wikipedia.org/wiki/PlayStation_VR)
 
 L'impact de cette renaissance de la VR s'est rapidement étendu au-delà du domaine du jeu vidéo. De plus en plus de secteurs ont commencé à explorer et à adopter la VR pour ses avantages uniques comme avec la formation professionnelle qui permet de former des employés dans des environnements virtuels réalistes et sûrs:
 
