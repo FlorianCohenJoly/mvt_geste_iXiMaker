@@ -18,6 +18,10 @@ La VR excelle par sa capacité à créer, modifier et reproduire facilement des 
 
 Pour pallier certaines limites de l’interaction physique en VR, des dispositifs externes comme les tapis roulants omnidirectionnels ont été développés. Ces plateformes permettent à l’utilisateur de marcher naturellement dans n’importe quelle direction tout en restant physiquement immobile dans l’espace réel. Cela améliore la sensation de déplacement libre et augmente l’immersion sans nécessiter de grandes surfaces. Cependant, ces équipements présentent encore des inconvénients : ils sont coûteux, encombrants et nécessitent souvent un calibrage précis. Malgré cela, ils ouvrent la voie à une interaction corporelle plus réaliste, rapprochant l’expérience virtuelle de celle du monde réel.
 
+![Tapis omnidirectionelle](./omnione.jpg) ![Tapis Disney](./tapisDisney.jpg)
+
+[Tapis omnidirectionelle]() et []
+
 -------------------------------------------------------------------------------------------------------------------------------
 
 1. Lécuyer, A. (2009). Simulateur haptique et réalités virtuelles. IEEE Xplore.
