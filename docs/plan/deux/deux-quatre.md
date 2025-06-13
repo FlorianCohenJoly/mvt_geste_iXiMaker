@@ -20,7 +20,7 @@ Pour pallier certaines limites de l’interaction physique en VR, des dispositif
 
 ![Tapis omnidirectionelle](./omnione.jpg) ![Tapis Disney](./tapisDisney.jpg)
 
-[Tapis omnidirectionelle]() et []
+[Tapis omnidirectionelle](https://www.realite-virtuelle.com/omni-one-tapis-vr-virtuix/) et [Tapis Disney](https://www.rtbf.be/article/disney-devoile-le-holotile-un-tapis-immersif-pour-la-realite-virtuelle-11318094)
 
 -------------------------------------------------------------------------------------------------------------------------------
 
