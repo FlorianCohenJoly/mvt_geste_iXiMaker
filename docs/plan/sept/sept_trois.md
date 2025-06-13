@@ -16,7 +16,7 @@ Du côté de l’immobilier, la VR redéfinit les codes de la présentation comm
 
 
 
-La réalité virtuelle ne se contente pas d'améliorer la visualisation des projets d’architecture ou d’immobilier. Elle crée une nouvelle façon de comprendre l’espace en permettant de voir, de ressentir et de se déplacer dans des lieux qui n’existent pas encore, la VR transforme ces espaces en expériences réelles, avant même d'être construits ou achetés.
+La réalité virtuelle ne se limite pas a améliorer la visualisation des projets d’architecture ou d’immobilier. Elle crée une nouvelle façon de comprendre l’espace en permettant de voir, de ressentir et de se déplacer dans des lieux qui n’existent pas encore, la VR transforme ces espaces en expériences réelles, avant même d'être construits ou achetés.
 
 
 -------------------------------------------------------------------------------------------------------------------------------
