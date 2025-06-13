@@ -7,9 +7,9 @@ sidebar_position: 4
 
 en cours de dev
 
-<!--
-Le toucher, la proprioception et la kinesthésie sont essentiels à notre interaction intuitive avec le monde, car ils nous informent sur la texture, la position et le mouvement, permettant une manipulation précise et adaptée des objets. En réalité virtuelle, malgré des progrès en retour haptique, cette richesse sensorielle reste difficile à reproduire, ce qui peut réduire le réalisme et l’intuitivité des interactions. En effet, selon Lécuyer (2009), « malgré les avancées, la simulation du toucher fin reste un défi majeur en VR, limitant la capacité à reproduire les sensations tactiles complexes nécessaires à des interactions naturelles.»(1)
 
+Le toucher, la proprioception et la kinesthésie sont essentiels à notre interaction intuitive avec le monde, car ils nous informent sur la texture, la position et le mouvement, permettant une manipulation précise et adaptée des objets. En réalité virtuelle, malgré des progrès en retour haptique, cette richesse sensorielle reste difficile à reproduire, ce qui peut réduire le réalisme et l’intuitivité des interactions. En effet, selon des experiences (2020), « malgré les avancées, la simulation du toucher fin reste un défi majeur en VR, limitant la capacité à reproduire les sensations tactiles complexes nécessaires à des interactions naturelles.»(1)
+<!--
 Le monde réel impose des contraintes comme le besoin d’espaces spécifiques, le coût et la maintenance d’équipements lourds, ainsi que des limites de sécurité et de reproductibilité. En comparaison, la réalité virtuelle supprime beaucoup de ces obstacles : les environnements sont flexibles, moins coûteux à maintenir, sans risques physiques, et permettent des répétitions fidèles des expériences. Slater et Sanchez-Vives (2016) soulignent que « la VR offre la possibilité de créer des environnements contrôlés, sécurisés et facilement modifiables, éliminant ainsi les contraintes logistiques typiques du monde réel.» (2)
 
 La VR offre aujourd’hui une immersion visuelle et auditive avancée grâce à des casques haute résolution, un large champ de vision et un son spatial précis. Le retour haptique indirect (vibrations, vestes haptiques) est en progrès, mais la simulation fine du toucher direct, avec toutes ses subtilités, reste limitée. Cummings et Bailenson (2016) expliquent que « les dispositifs actuels améliorent le ressenti par le biais du son et de la vision, mais le retour haptique reste encore peu développé et trop approximatif pour reproduire les sensations tactiles fines.»(3)
@@ -24,10 +24,7 @@ Pour pallier certaines limites de l’interaction physique en VR, des dispositif
 
 [Tapis omnidirectionelle](https://www.realite-virtuelle.com/omni-one-tapis-vr-virtuix/) et [Tapis Disney](https://www.rtbf.be/article/disney-devoile-le-holotile-un-tapis-immersif-pour-la-realite-virtuelle-11318094)
 
--------------------------------------------------------------------------------------------------------------------------------
 
-1. Lécuyer, A. (2009). Simulateur haptique et réalités virtuelles. IEEE Xplore.
-https://ieeexplore.ieee.org/document/5235710
 2. Slater, M., & Sanchez-Vives, M. V. (2016). Enhancing Our Lives with Immersive Virtual Reality. Frontiers in Robotics and AI, 3, 74.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4923667/
 3. Cummings, J. J., & Bailenson, J. N. (2016). How Immersive Is Enough? A Meta-Analysis of the Effect of Immersive Technology on User Presence. Cyberpsychology, Behavior, and Social Networking, 19(2), 87–91.
@@ -35,3 +32,8 @@ https://doi.org/10.1089/cyber.2015.0370
 4. Riva, G., & Mantovani, F. (2014). Extending the self through the tools and the others: a general framework for presence and social presence in mediated interactions. Cognitive Processing, 15(4), 499–506.
 https://journals.sagepub.com/doi/10.1177/1046878114534387
  -->
+
+ -------------------------------------------------------------------------------------------------------------------------------
+
+1. Fossataro et al. (2020). Immersive virtual reality reveals that visuo-proprioceptive discrepancy enlarges the hand-centred peripersonal space
+https://www.academia.edu/107562873/Immersive_virtual_reality_reveals_that_visuo_proprioceptive_discrepancy_enlarges_the_hand_centred_peripersonal_space?utm_source=chatgpt.com
