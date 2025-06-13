@@ -35,5 +35,6 @@ https://journals.sagepub.com/doi/10.1177/1046878114534387
 
  -------------------------------------------------------------------------------------------------------------------------------
 
-1. Fossataro et al. (2020). Immersive virtual reality reveals that visuo-proprioceptive discrepancy enlarges the hand-centred peripersonal space
-https://www.academia.edu/107562873/Immersive_virtual_reality_reveals_that_visuo_proprioceptive_discrepancy_enlarges_the_hand_centred_peripersonal_space?utm_source=chatgpt.com
+
+
+1. [Fossataro et al -Immersive virtual reality reveals that visuo-proprioceptive discrepancy enlarges the hand-centred peripersonal space - 2020](https://www.academia.edu/107562873/Immersive_virtual_reality_reveals_that_visuo_proprioceptive_discrepancy_enlarges_the_hand_centred_peripersonal_space?utm_source=chatgpt.com)
