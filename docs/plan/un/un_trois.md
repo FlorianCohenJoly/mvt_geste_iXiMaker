@@ -26,7 +26,7 @@ L’écran tactile a introduit un nouveau vocabulaire d’interactions basées s
 
 <img src="/img/longpress.gif" alt="Description du gif" width="150" />, Google Image
 
-Ce vocabulaire gestuel est aujourd’hui universel, notamment parce qu’il combine efficacité fonctionnelle et expérience plaisante d’usage, un principe hérité du jeu vidéo. Comme l’indique Joakim Maeda Palm, les développeurs de jeux mobiles mettent davantage l’accent sur la spontanéité et la fluidité que sur une planification rigide du design, car _“Les jeux ont l’exigence d’être « amusants », et c’est une exigence vague qui distingue le développement de jeux du développement logiciel traditionnel.”_ [(1)]((https://www.diva-portal.org/smash/get/diva2%3A1710174/FULLTEXT01.pdf)). Cette exigence de plaisir se retrouve dans le soin apporté aux animations, au rythme des interactions et aux rétroactions visuelles et sonores.
+Ce vocabulaire gestuel est aujourd’hui universel, notamment parce qu’il combine efficacité fonctionnelle et expérience plaisante d’usage, un principe hérité du jeu vidéo. Comme l’indique Joakim Maeda Palm, les développeurs de jeux mobiles mettent davantage l’accent sur la spontanéité et la fluidité que sur une planification rigide du design, car _“Les jeux ont l’exigence d’être « amusants », et c’est une exigence vague qui distingue le développement de jeux du développement logiciel traditionnel.”_ [(1)](https://www.diva-portal.org/smash/get/diva2%3A1710174/FULLTEXT01.pdf). Cette exigence de plaisir se retrouve dans le soin apporté aux animations, au rythme des interactions et aux rétroactions visuelles et sonores.
 
 ## Interactions basées sur le mouvement de l’appareil
 
