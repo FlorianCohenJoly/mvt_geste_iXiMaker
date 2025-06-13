@@ -5,7 +5,9 @@ sidebar_position: 4
 
 # 2.4 Avantages, défis sensoriels et potentiels
 
+en cours de dev
 
+<!--
 Le toucher, la proprioception et la kinesthésie sont essentiels à notre interaction intuitive avec le monde, car ils nous informent sur la texture, la position et le mouvement, permettant une manipulation précise et adaptée des objets. En réalité virtuelle, malgré des progrès en retour haptique, cette richesse sensorielle reste difficile à reproduire, ce qui peut réduire le réalisme et l’intuitivité des interactions. En effet, selon Lécuyer (2009), « malgré les avancées, la simulation du toucher fin reste un défi majeur en VR, limitant la capacité à reproduire les sensations tactiles complexes nécessaires à des interactions naturelles.»(1)
 
 Le monde réel impose des contraintes comme le besoin d’espaces spécifiques, le coût et la maintenance d’équipements lourds, ainsi que des limites de sécurité et de reproductibilité. En comparaison, la réalité virtuelle supprime beaucoup de ces obstacles : les environnements sont flexibles, moins coûteux à maintenir, sans risques physiques, et permettent des répétitions fidèles des expériences. Slater et Sanchez-Vives (2016) soulignent que « la VR offre la possibilité de créer des environnements contrôlés, sécurisés et facilement modifiables, éliminant ainsi les contraintes logistiques typiques du monde réel.» (2)
@@ -32,3 +34,4 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4923667/
 https://doi.org/10.1089/cyber.2015.0370
 4. Riva, G., & Mantovani, F. (2014). Extending the self through the tools and the others: a general framework for presence and social presence in mediated interactions. Cognitive Processing, 15(4), 499–506.
 https://journals.sagepub.com/doi/10.1177/1046878114534387
+ -->
