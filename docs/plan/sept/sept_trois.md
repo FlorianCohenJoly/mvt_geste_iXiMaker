@@ -8,7 +8,17 @@ Les méthodes classiques de représentation architecturale telle que les plans e
 
 
 
-Dans le domaine architectural, la VR offre la possibilité inédite de visiter des batiments avant même qu’ils ne soient construits. Il ne s’agit plus d’imaginer ce que suggèrent un plan ou un modèle 3D sur écran, mais de parcourir physiquement un espace virtuel, d’en percevoir les proportions, la lumière et les perspectives. Cette immersion permet aux architectes, aux urbanistes, aux promoteurs, mais aussi aux usagers finaux de projeter leur corps dans un espace encore théorique, d’en éprouver la cohérence, la lisibilité ou les zones de tension comme nous l'explique Tyler Stone dans son article sur les bénéfices de la VR dans l'architechture. _"Lorsqu’ils parlent de réalité virtuelle, les architectes font généralement référence à des modèles numériques offrant une vue à 360 degrés d’un espace. Bien qu’il soit possible de visualiser ces modèles sur un écran d’ordinateur classique, les casques permettent de simuler une visite à l’intérieur de l’espace, offrant ainsi une expérience plus immersive et engageante." _[(*1*)](https://neumannmonson.com/blog/benefits-virtual-reality-architecture)_ L’architecture cesse alors d’être une abstraction pour devenir une expérience anticipée.
+Dans le domaine architectural, la VR offre la possibilité inédite de visiter des batiments avant même qu’ils ne soient construits. Il ne s’agit plus d’imaginer ce que suggèrent un plan ou un modèle 3D sur écran, mais de parcourir physiquement un espace virtuel, d’en percevoir les proportions, la lumière et les perspectives. Cette immersion permet aux architectes, aux urbanistes, aux promoteurs, mais aussi aux usagers finaux de projeter leur corps dans un espace encore théorique, d’en éprouver la cohérence, la lisibilité ou les zones de tension comme nous l'explique Tyler Stone dans son article sur les bénéfices de la VR dans l'architechture. _"Lorsqu’ils parlent de réalité virtuelle, les architectes font généralement référence à des modèles numériques offrant une vue à 360 degrés d’un espace. Bien qu’il soit possible de visualiser ces modèles sur un écran d’ordinateur classique, les casques permettent de simuler une visite à l’intérieur de l’espace, offrant ainsi une expérience plus immersive et engageante."_[(*1*)](https://neumannmonson.com/blog/benefits-virtual-reality-architecture) L’architecture cesse alors d’être une abstraction pour devenir une expérience anticipée.
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/otYbvFPA5MI"
+  title="YouTube video player"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
 
 
 
