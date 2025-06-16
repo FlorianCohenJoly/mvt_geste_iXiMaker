@@ -9,9 +9,9 @@ Des premiers calculateurs mécaniques comme la [Pascaline](https://aconit.inria.
 L'histoire de l'interaction entre l'homme et la machine est une quête constante pour des interfaces plus intuitives, efficaces et immersives.
 Cette évolution, comme le souligne [Ben Shneiderman](https://itif.org/person/ben-shneiderman/) dans _Designing the User Interface_ (_[1](http://seu1.org/files/level5/IT201/Book%20-%20Ben%20Shneiderman-Designing%20the%20User%20Interface-4th%20Edition.pdf)_), traduit une volonté continue de concevoir des interfaces plus directes, naturelles et engageantes pour l'utilisateur. Comprendre cette trajectoire est essentiel pour appréhender la signification et le potentiel des interactions manuelles en réalité virtuelle.
 
-<img src="/img/pascaline.jpg" alt="Pascaline, premier calculateur mécanique crééer par Blaise Pascal en 1642" width="300" /> Pascaline, [Wikipédia](https://fr.wikipedia.org/wiki/Pascaline)
+<img src="/img/pascaline.jpg" alt="Pascaline, premier calculateur mécanique crééer par Blaise Pascal en 1642" width="300" /> Pascaline, (Source: [Wikipédia](https://fr.wikipedia.org/wiki/Pascaline))
 
-<img src="/img/machinediff.png" alt="Pascaline, premier calculateur mécanique crééer par Blaise Pascal en 1642" width="300" /> Machine à différence, [math.pc.vh.free.fr](http://math.pc.vh.free.fr/divers/machines/babbage.htm)
+<img src="/img/machinediff.png" alt="Pascaline, premier calculateur mécanique crééer par Blaise Pascal en 1642" width="300" /> Machine à différence, (Source: [math.pc.vh.free.fr](http://math.pc.vh.free.fr/divers/machines/babbage.htm))
 
 Initialement, l'interaction avec les ordinateurs était principalement textuelle, nécessitant la maîtrise de langages de commande et une abstraction considérable des actions souhaitées. L'avènement de l'interface graphique utilisateur (GUI) dans les années 1980, popularisée par des systèmes comme Macintosh et Windows, a marqué une étape cruciale.
 En 1964, [Doug Engelbart](https://interstices.info/douglas-engelbart-inventeur-et-visionnaire/) invente la souris, qu’il brevète en 1967, dans le but de faciliter la désignation d’objets à l’écran comme le rappelle Beaudouin (_[2](https://www.lri.fr/~mbl/ASTI2001/40ansIHM-papier.pdf)_).
@@ -23,7 +23,7 @@ Dans le domaine du jeu vidéo, des premières consoles aux manettes sophistiqué
 
 Sur l’image ci-dessous, on observe que la première manette Atari, sortie en 1977, était équipée d’un joystick standard avec un seul bouton. Avec le temps, les manettes ont progressivement évolué afin d’offrir une meilleure expérience utilisateur. Par exemple, en 1982, un controlleur Vectrex introduit une manette avec un nouveau design pour une meilleur ergonomie, permettant une plus grande variété d’actions et une jouabilité enrichie.
 
-<img src="/img/controlleur.jpg" alt="Pascaline, premier calculateur mécanique crééer par Blaise Pascal en 1642" width="500" /> _[Evolution des manettes de jeu vidéo](https://hoopnod.com/evolution-manette-gamepad-jeux-video-histoire/)_ (Hoopnod)
+<img src="/img/controlleur.jpg" alt="Pascaline, premier calculateur mécanique crééer par Blaise Pascal en 1642" width="500" /> Evolution des manettes de jeu vidéo, (Source: [Hoopnod](https://hoopnod.com/evolution-manette-gamepad-jeux-video-histoire/))
 
 L'émergence de périphériques de détection de mouvements, tels que la Nintendo Wii Remote (2006) et le Microsoft Kinect (2017), a représenté une tentative de briser cette barrière de l'indirect. En permettant aux mouvements physiques du joueur d'être capturés et transposés dans le jeu, ces technologies ont introduit une forme plus directe d'interaction, bien que souvent limitée en termes de précision et de fidélité.
 
