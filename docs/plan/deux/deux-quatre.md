@@ -5,10 +5,21 @@ sidebar_position: 4
 
 # 2.4 Avantages, défis sensoriels et potentiels
 
-en cours de dev
 
 
-Le toucher, la proprioception et la kinesthésie sont essentiels à notre interaction intuitive avec le monde, car ils nous informent sur la texture, la position et le mouvement, permettant une manipulation précise et adaptée des objets. En réalité virtuelle, malgré des progrès en retour haptique, cette richesse sensorielle reste difficile à reproduire, ce qui peut réduire le réalisme et l’intuitivité des interactions. En effet selon des experiences menée en 2020 sur  la vision et la proprioception, une étude conclut que «la facilitation spatiale dépendante de la position est abolie, [...] aucune des deux modalités ne prévaut sur l’autre ». Ainsi, « lorsque la discordance visuo-proprioceptive rend le codage de la position de la main moins précis, l’espace péripersonnel centré sur la main est élargi »(1), ce qui permettrait d’optimiser les réactions aux événements externes. En d’autres termes, quand la vision et la sensation de la position de la main ne correspondent pas, le cerveau ne sait plus très bien où est la main. Pour compenser cette incertitude, il élargit la zone autour de la main où il est attentif aux stimuli, afin de mieux réagir aux événements proches. Cela montre l’importance de la bonne intégration des informations sensorielles pour une perception précise de notre corps et de son environnement.
+Le toucher, la proprioception et la kinesthésie sont essentiels à notre interaction intuitive avec le monde, car ils nous informent sur la texture, la position et le mouvement, permettant une manipulation précise et adaptée des objets. En réalité virtuelle, malgré des progrès en retour haptique, cette richesse sensorielle reste difficile à reproduire, ce qui peut réduire le réalisme et l’intuitivité des interactions. En effet selon des experiences menée en 2020 sur  la vision et la proprioception, une étude conclut que _"la facilitation spatiale dépendante de la position est abolie, [...] aucune des deux modalités ne prévaut sur l’autre."_ Ainsi, _"lorsque la discordance visuo-proprioceptive rend le codage de la position de la main moins précis, l’espace péripersonnel centré sur la main est élargi"_[(*1*)](https://www.academia.edu/107562873/Immersive_virtual_reality_reveals_that_visuo_proprioceptive_discrepancy_enlarges_the_hand_centred_peripersonal_space), ce qui permettrait d’optimiser les réactions aux événements externes. En d’autres termes, quand la vision et la sensation de la position de la main ne correspondent pas, le cerveau ne sait plus très bien où est la main. Pour compenser cette incertitude, il élargit la zone autour de la main où il est attentif aux stimuli, afin de mieux réagir aux événements proches. Cela montre l’importance de la bonne intégration des informations sensorielles pour une perception précise de notre corps et de son environnement.
+
+
+
+Le son, tout comme la vision, joue un rôle central dans notre perception de l’espace et dans notre capacité à anticiper des événements. En réalité virtuelle, l’audio spatial permet de simuler la provenance des sons dans un environnement tridimensionnel, renforçant ainsi l’immersion. Cependant, cette immersion auditive dépend de nombreux paramètres, tels que la latence, la fidélité du rendu ou encore la prise en compte des mouvements de la tête. Cela signifie que même si le son semble venir du bon endroit, un décalage avec l’image ou une absence de synchronisation peut perturber l’expérience. Ainsi, pour que l’audio en VR soit vraiment efficace, il doit non seulement être spatialement précis, mais aussi parfaitement coordonné avec les autres sens.
+
+
+
+L’équilibre et l’orientation sont profondément liés à notre système vestibulaire, situé dans l’oreille interne, qui détecte les mouvements de la tête et les accélérations. En réalité virtuelle, cette sensation est souvent mise à l’épreuve par le « conflit sensoriel » entre ce que l’on voit et ce que l’on ressent physiquement. Par exemple, lorsqu’un utilisateur avance dans un monde virtuel sans réellement bouger, son cerveau reçoit des signaux contradictoires : les yeux indiquent un mouvement, mais le corps reste immobile. Une publication de 2019 sur la cybersickness affirme que _"plus l’incohérence entre les signaux sensoriels est grande, plus la probabilité d’inconfort est élevée."_[(*2*)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00158/full) Ce phénomène peut provoquer des nausées, des vertiges ou une désorientation. Ainsi, pour limiter ces effets indésirables, il est crucial d’aligner autant que possible les informations visuelles avec les sensations corporelles réelles.
+
+
+
+L’interaction sociale, enfin, repose en grande partie sur des signaux non verbaux tels que les expressions faciales, les postures ou les gestes. Dans un environnement virtuel, la reproduction fidèle de ces indices est encore limitée, en raison du manque de capteurs ou de la latence dans la capture de mouvement. Une étude menée en 2025 sur le réalisme et son impact sur les interactions sociales en réalité virtuelle indique que _"un niveau plus élevé de réalisme comportemental, obtenu grâce à une capture de mouvement plus avancée, peut améliorer l’expérience des interactions sociales en réalité virtuelle. "_[(*3*)](https://www.mdpi.com/2076-3417/15/6/2896). En d’autres termes, si les mouvements d’un avatar ne correspondent pas à ce que l’on attend, cela peut briser l’illusion de présence et nuire à la qualité de l’échange. Ce constat souligne l’importance du développement de systèmes plus précis de capture en temps réel pour renforcer la crédibilité des interactions humaines en VR.
 <!--
 Le monde réel impose des contraintes comme le besoin d’espaces spécifiques, le coût et la maintenance d’équipements lourds, ainsi que des limites de sécurité et de reproductibilité. En comparaison, la réalité virtuelle supprime beaucoup de ces obstacles : les environnements sont flexibles, moins coûteux à maintenir, sans risques physiques, et permettent des répétitions fidèles des expériences. Slater et Sanchez-Vives (2016) soulignent que « la VR offre la possibilité de créer des environnements contrôlés, sécurisés et facilement modifiables, éliminant ainsi les contraintes logistiques typiques du monde réel.» (2)
 
@@ -37,4 +48,12 @@ https://journals.sagepub.com/doi/10.1177/1046878114534387
 
 
 
-1. [Fossataro et al -Immersive virtual reality reveals that visuo-proprioceptive discrepancy enlarges the hand-centred peripersonal space - 2020](https://www.academia.edu/107562873/Immersive_virtual_reality_reveals_that_visuo_proprioceptive_discrepancy_enlarges_the_hand_centred_peripersonal_space?utm_source=chatgpt.com)
+1. [Fossataro et al - Immersive virtual reality reveals that visuo-proprioceptive discrepancy enlarges the hand-centred peripersonal space - 2020](https://www.academia.edu/107562873/Immersive_virtual_reality_reveals_that_visuo_proprioceptive_discrepancy_enlarges_the_hand_centred_peripersonal_space)
+
+
+
+2. [Séamas Weech, Sophie kenny, Michael Barnett-Cowan - Presence and Cybersickness in Virtual Reality Are Negatively Related: A Review - 2019](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00158/full)
+
+
+
+2. [Alan Fraser, Ross Hollett, Craig Speelman, Shane L. Rogers - Behavioural Realism and Its Impact on Virtual Reality Social Interactions Involving Self-Disclosure - 2025](https://www.mdpi.com/2076-3417/15/6/2896)
