@@ -16,7 +16,7 @@ Dans un article du forum "blague de geek" [(_1_)](https://www.blaguesdegeek.com/
 
 Des critiques de jeux de l'époque sur des sites comme IGN ou GameSpot soulignaient souvent l'aspect immersif de l'utilisation du corps comme contrôleur dans les jeux Kinect. Par exemple, la revue sur IGN mentionnait l'engagement physique comme un point fort. _"Kinect Sports exige une activité physique assez proche de la réalité. Vous bougerez. Vous transpirerez probablement. Et je peux presque vous garantir qu'après environ 45 minutes de Kinect Sports, vous ressentirez des courbatures à des endroits que vous auriez pu oublier."_ [(_2_)](https://www.ign.com/articles/2010/11/04/kinect-sports-review)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gpelXk2IVBA?si=dy7IK6dqZh48qC3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gpelXk2IVBA?si=dy7IK6dqZh48qC3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> Trailer de Just Dance 2024, (Source: [YouTube](https://www.youtube.com/watch?v=gpelXk2IVBA))
 
 **Nouvelles formes de gameplay et d'applications** : Ces technologies ont catalysé la création de genres de jeux et d'applications innovants. Le succès de jeux comme [Just Dance (Ubisoft, depuis 2009)](<https://fr.wikipedia.org/wiki/Just_Dance_(s%C3%A9rie_de_jeux_vid%C3%A9o)>) en est un parfait exemple.
 
@@ -28,7 +28,9 @@ Des critiques de jeux de l'époque sur des sites comme IGN ou GameSpot soulignai
 
 [Les démontages de Kinect sur iFixit](https://fr.ifixit.com/Vue+%C3%89clat%C3%A9e/Xbox+360+Kinect+Teardown/4066) fournissaient des détails sur le matériel et les capteurs utilisés, ce qui permettait de comprendre les limitations techniques en termes de résolution et de profondeur de champ.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aposWBGnpdE?si=kJh4ZQ4qjcnTDsKH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aposWBGnpdE?si=kJh4ZQ4qjcnTDsKH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  Démontage de Kinect par iFixit, (Source: [YouTube](https://www.youtube.com/watch?v=aposWBGnpdE))
+
+
 
 **Fatigue et encombrement** : Les interactions physiques prolongées pouvaient être fatigantes, et l'utilisation de contrôleurs physiques limitait la liberté des mains.
 

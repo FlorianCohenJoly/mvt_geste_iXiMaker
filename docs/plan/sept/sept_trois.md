@@ -18,7 +18,7 @@ Dans le domaine architectural, la VR offre la possibilité inédite de visiter d
   frameBorder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
-></iframe>
+></iframe> Vidéo de présentation d'un projet architectural en VR, (Source: [YouTube](https://www.youtube.com/watch?v=otYbvFPA5MI))
 
 
 

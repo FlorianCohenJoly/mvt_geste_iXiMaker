@@ -22,8 +22,7 @@ Cependant, ces tentatives ont été largement considérées comme des échecs en
 
 Ces échecs ont mis en évidence les limitations technologiques significatives de l'époque qui empêchaient la réalisation d'une expérience de réalité virtuelle véritablement immersive et abordable
 
- <img src="/img/segavr.jpg" width="200px"/>
-Le Sega VR, (Source: [Wikipedia](https://segaretro.org/Sega_VR))
+ <img src="/img/segavr.jpg" width="200px"/> Le Sega VR, (Source: [Wikipedia](https://segaretro.org/Sega_VR))
 
 ---
 
