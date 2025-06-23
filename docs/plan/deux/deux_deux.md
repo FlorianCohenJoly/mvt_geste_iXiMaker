@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 2.2 Évolution de la VR (Années 2000 à aujourd'hui)
+# 2.2 Évolution (2000 à aujourd'hui)
 
 Face à ces défis et aux déceptions commerciales, l'intérêt et les investissements dans la VR grand public ont considérablement diminué au début des années 2000, _"En conséquence, après un pic d'intérêt et d'importants investissements, l'industrie ainsi que l'opinion publique ont commencé à se désintéresser de la réalité virtuelle et certaines entreprises ont fait faillite."_ [(2)](https://www.researchgate.net/publication/370095391_Analysis_of_Human_Factor_Issues_Affecting_Virtual_Reality_Flight_Training_Effectiveness) Cependant, la recherche et le développement n'ont pas cessé pour autant. On a assisté à un passage progressif vers des applications plus spécifiques et professionnelles, où les avantages de la VR pouvaient justifier les coûts et les limitations technologiques de l'époque.
 

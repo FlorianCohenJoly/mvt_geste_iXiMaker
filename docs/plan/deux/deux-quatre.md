@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 
 
-# 2.4 Avantages, défis sensoriels et potentiels
+# 2.4 Avantages
 
 
 

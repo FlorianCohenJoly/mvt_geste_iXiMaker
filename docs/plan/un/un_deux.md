@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 1.2 Support technologiques antérieurs à la VR: Les précurseurs des interactions gestuelles
+# 1.2 Support technologiques antérieurs
 
 Avant que la réalité virtuelle ne popularise les casques immersifs et les systèmes de suivi de mouvements sophistiqués, plusieurs plateformes et périphériques ont exploré différentes manières de traduire les gestes humains en actions numériques. Ces tentatives, bien que souvent limitées par la technologie de l'époque, ont joué un rôle crucial dans la familiarisation du public avec l'idée d'une interaction plus directe et physique avec les environnements numériques, et ont posé les bases pour les avancées que nous observons aujourd'hui en VR. Bodkhe (2024) présente une revue des interactions gestuelles numériques avant l'arrivée de la VR (_[1](https://sdlccorp.com/post/how-motion-controls-have-evolved-in-console-gaming/)_)
 

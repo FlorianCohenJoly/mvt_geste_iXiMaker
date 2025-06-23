@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 2.3 Les Limitations des Interfaces 2D et des Périphériques Classiques
+# 2.3 Les Limitations des Interfaces 2D
 
 Si les interfaces utilisateur 2D et les périphériques classiques tels que le clavier, la souris et l'écran ont indéniablement transformé notre relation avec le monde numérique, ils présentent des contraintes fondamentales, en particulier lorsqu'il s'agit de représenter et de manipuler des informations qui sont intrinsèquement spatiales ou d'accomplir des tâches qui se déroulent naturellement dans un environnement en 3D. C'est dans ce contexte que la réalité virtuelle se présente comme une alternative prometteuse, offrant une modalité d'interaction homme-machine radicalement différente comme le montre l'étude de Graham Smith, Tim Salzman et Wolfgang Stuerzlinger _"Un problème fondamental est que la manipulation d’objets 3D avec des interfaces utilisateur 2D est très difficile pour les utilisateurs non expérimentés. […] Positionner un objet dans une scène 3D est complexe car il faut contrôler six variables indépendantes : trois pour la position et trois pour l’orientation. […] Cela nous amène à penser qu’une interface exposant directement les six degrés de liberté complique l’interaction avec les environnements virtuels pour l’utilisateur moyen."_[(*1*)](https://vvise.iat.sfu.ca/user/data/papers/mive_gi2001.pdf).
 

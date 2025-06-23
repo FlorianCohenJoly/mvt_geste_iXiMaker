@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 3.2 Manipulation d’objets et gestes techniques en réalité virtuelle
+# 3.2 Manipulation d’objets et gestes 
 
 _"L’interaction est l’un des piliers fondamentaux de la réalité virtuelle. Il s’agit de la capacité des utilisateurs à interagir avec l’environnement créé par la technologie de réalité virtuelle. Il s’agit entre autres des gestes physiques, des mouvements de la tête et du corps, des commandes vocales, contrôleurs manuels, interfaces tactiles et sensations haptiques."_ [(_1_)](https://www.bew-web-agency.fr/piliers-de-la-realite-virtuelle//)
 
@@ -20,7 +20,7 @@ La recherche académique s'intéresse à l'amélioration de la fidélité des ge
 
 Pour que ces interactions soient efficaces et naturelles, il est essentiel de repenser les gestes associés à chaque tâche technique. Dans le cadre de notre propre projet chez iXiVERSE, nous avons développé nous mêmes des gestes spécifiques pour des actions courantes en VR, tels que la découpe, la mesure et la peinture.
 
-Refaire ses gestes nous ont permis de mieux comprendre comment ils sont faits et surtout que se soit open source pour que la communauté puisse en bénéficier. Notre projet de boite à geste a pour but de fournir une base de gestes techniques adaptés à la VR, en s'inspirant des gestes du monde réel tout en tenant compte des spécificités de l'interaction virtuelle.
+Reproduire ces gestes nous a permis de mieux comprendre leur construction. Par ailleurs, le fait de rendre ce travail open source permet à la communauté d’en bénéficier. Notre projet de boîte à gestes vise à fournir une base de gestes techniques adaptés à la VR, en s’inspirant des gestes du monde réel tout en tenant compte des spécificités de l’interaction virtuelle.
 
 <video width="540" height="360" controls>
   <source src="/video/CuttingSquare.mp4" type="video/mp4" />

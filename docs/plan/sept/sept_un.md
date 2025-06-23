@@ -18,7 +18,7 @@ Dans le champ de la formation professionnelle, la réalité virtuelle répond à
   frameBorder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowFullScreen
-></iframe> La formation des managers en réalité virtuelle, (Source: [YouTube](https://www.youtube.com/watch?v=vP16BA0Iwhw))
+></iframe> La formation des managers en réalité virtuelle, (Source: [Chaîne My-Serious-Game](https://www.youtube.com/watch?v=vP16BA0Iwhw))
 
 La réalité virtuelle ne se contente pas d’améliorer l’existant : elle redéfinit les contours mêmes de l’environnement d’apprentissage. À la croisée des sciences cognitives et des innovations technologiques, elle ouvre la voie à une pédagogie augmentée, capable de s’adapter aux rythmes, aux styles et aux besoins spécifiques de chaque apprenant. Des obstacles demeurent, comme les coûts, ou la formation des enseignants, mais le mouvement est enclenché. Il ne s’agit plus de savoir si la réalité virtuelle a sa place dans l’éducation, mais comment l’y inscrire durablement et intelligemment.
 

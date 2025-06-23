@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 1.1 L'évolution des interactions homme-machine vers les interfaces gestuelles.
+# 1.1 L'évolution des interactions
 
 Des premiers calculateurs mécaniques comme la [Pascaline](https://aconit.inria.fr/omeka/exhibits/show/histoire-machines/prehistoire/pascaline.html), inventée par Blaise Pascal en 1642, ou la [machine à différences](http://math.pc.vh.free.fr/divers/machines/babbage.htm) conçue par Charles Babbage dans les années 1820 aux ordinateurs personnels, en passant par les consoles de jeux, la manière dont nous communiquons avec les systèmes numériques a évolué.
 

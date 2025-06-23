@@ -67,3 +67,5 @@
 [Tyler Stone -  The Benefits of Using Virtual Reality (VR) in Architecture - 2022 ](https://neumannmonson.com/blog/benefits-virtual-reality-architecture)
 
 [Atlas Bay VR - Virtual Reality in Real Estate - 2023](https://www.atlasbayvr.com/)
+
+[LearnVR - Learn Sign Language with Virtual Reality and Hand Tracking - 2020](https://learnvr.org/learn-sign-language-with-virtual-reality-and-hand-tracking/)
